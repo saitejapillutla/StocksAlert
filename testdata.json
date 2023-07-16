@@ -1,0 +1,19 @@
+{
+  "user": {
+    "name": "John Doe",
+    "age": 30,
+    "gender": "male",
+    "height": 175,
+    "weight": 85,
+    "activity_level": "moderate",
+    "goal": "weight_loss",
+    "food_preferences": ["vegetarian", "gluten-free"],
+    "allergies": ["peanuts", "shellfish"],
+    "dislikes": ["mushrooms", "lentils"],
+    "intermittent_fasting_schedule": "16/8",
+    "location": "Gujarat, India",
+    "date_time": "2023-09-16T12:00:00",
+    "occasion": "Birthday day","cheat_today": True,
+    "cheat_level": "high"
+  }
+}
